@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jj77847, Jonny Jefferies
+- 👋 Hi, I’m @jj77847, Jonathan (Jonny) Jefferies
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack web development at university of Birmingham bootcamp
 - 💞️ I’m looking to collaborate on Slack, CodePen
