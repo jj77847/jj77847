@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <div align="center">
-  Email: [jonathanjefferies1985@gmail.com](mailto:jonathanjefferies1985@gmail.com)
+  Email: jonathanjefferies1985@gmail.com
   <br>
   Portfolio: https://jj77847.github.io/updated-portfoilo/
   <br>
