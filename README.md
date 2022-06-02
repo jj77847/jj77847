@@ -7,12 +7,46 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<h3 align="center" > Tools, languages, and other things that I like to work with.</h3>
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<table align="center" >
+  <tr>
+    <td align="center" width="96">
+        <img src="./img/css.jpeg" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="./img/html.png" width="48" height="48" alt="html" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="./img/jquery.png" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+        <img src="./img/js.jpg" width="48" height="48" alt="js" />
+      <br>JavaScript
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="./img/mongo.jpeg" width="48" height="48" alt="mondodb" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="./img/node.jpeg" width="48" height="48" alt="nodejs" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+        <img src="./img/react.png" width="48" height="48" alt="react" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="./img/sql.png" width="48" height="48" alt="sql" />
+      <br>MySQL
+    </td>
+  </tr>
+  
+</table>
+
+<br/>
