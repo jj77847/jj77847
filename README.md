@@ -37,6 +37,10 @@
         <img src="./img/node.jpeg" width="48" height="48" alt="nodejs" />
       <br>NodeJS
     </td>
+        <td align="center" width="96">
+        <img src="./img/python.png" width="48" height="48" alt="python" />
+      <br>Python
+    </td>
     <td align="center" width="96">
         <img src="./img/react.png" width="48" height="48" alt="react" />
       <br>React
